@@ -7,3 +7,6 @@ Machine Learning Tutorial 1 - Simple Linear Regression Model - Part 1
 Machine Learning Tutorial 1 - Simple Linear Regression Model - Part 2
 <br>https://www.youtube.com/watch?v=2cCb5Bde5Ig
 
+Machine Learning Tutorial 2 - Multiple Linear Regression Model
+<br>https://www.youtube.com/watch?v=c3GFApUxXgI
+
