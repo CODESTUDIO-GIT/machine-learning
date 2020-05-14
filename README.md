@@ -10,3 +10,6 @@ Machine Learning Tutorial 1 - Simple Linear Regression Model - Part 2
 Machine Learning Tutorial 2 - Multiple Linear Regression Model
 <br>https://www.youtube.com/watch?v=c3GFApUxXgI
 
+Machine Learning Tutorial 3 - Polynomial Linear Regression Model
+<br>https://www.youtube.com/watch?v=Pm5K2wdbNHc
+
