@@ -13,3 +13,6 @@ Machine Learning Tutorial 2 - Multiple Linear Regression Model
 Machine Learning Tutorial 3 - Polynomial Linear Regression Model
 <br>https://www.youtube.com/watch?v=Pm5K2wdbNHc
 
+Machine Learning Tutorial 4 - Support Vector Machine Model
+<br>https://www.youtube.com/watch?v=hCWAAlfGdd4
+
